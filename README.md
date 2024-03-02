@@ -1,4 +1,6 @@
-### Hello! I'm Alec
+### Hello! I'm Alec 👋
+
+<hr/>
 
 Full-Stack Developer experienced with
 - Vue
@@ -6,6 +8,8 @@ Full-Stack Developer experienced with
 - Laravel
 - SQL
 - Docker
+
+<hr/>
 
 Currently learning
 - React
