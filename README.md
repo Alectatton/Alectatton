@@ -3,6 +3,7 @@
 <hr/>
 
 Full-Stack Developer experienced with
+<hr/>
 - Vue
 - JavaScript / HTML / CSS
 - Laravel
@@ -11,7 +12,8 @@ Full-Stack Developer experienced with
 
 <hr/>
 
-Currently learning
+Currently Learning
+<hr/>
 - React
 - TypeScript
 
