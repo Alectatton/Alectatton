@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello! I'm Alec
+
+Full-Stack Developer experienced with
+- Vue
+- JavaScript / HTML / CSS
+- Laravel
+- SQL
+- Docker
+
+Currently learning
+- React
+- TypeScript
 
 <!--
 **Alectatton/Alectatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
