@@ -9,11 +9,7 @@ Full-Stack Developer with professional experience building with:
 - SQL
 - Docker
 
-<hr/>
-
-Currently Learning:
-- React
-- TypeScript
+- 🌱 I’m currently learning React, Next and TypeScript
 
 <!--
 **Alectatton/Alectatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
