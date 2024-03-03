@@ -2,7 +2,7 @@
 
 <hr/>
 
-- Full-Stack Developer
+- Full-Stack Software Developer
 - Professional experience with Vue, JavaScript, PHP, Laravel, SQL, Docker
 - I’m currently learning React, Next and TypeScript
 
