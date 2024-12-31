@@ -4,6 +4,7 @@
 
 - Full-Stack Software Developer
 - Professional experience with PHP, Laravel, Vue, JavaScript, TypeScript, SQL, Docker, Kubernetes, Python
+- BS in Computer Science and BS in Mechanical Engineering
 
 <!--
 **Alectatton/Alectatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
