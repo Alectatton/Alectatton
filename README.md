@@ -3,8 +3,7 @@
 <hr/>
 
 - Full-Stack Software Developer
-- Professional experience with Vue, JavaScript, PHP, Laravel, SQL, Docker
-- I’m currently learning React, Next and TypeScript
+- Professional experience with PHP, Laravel, Vue, JavaScript, TypeScript, SQL, Docker, Kubernetes, Python
 
 <!--
 **Alectatton/Alectatton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
