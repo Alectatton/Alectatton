@@ -3,7 +3,7 @@
 <hr/>
 
 - Full-Stack Software Developer
-- Professional experience with PHP, Laravel, Vue, JavaScript, TypeScript, SQL, Docker, Kubernetes, Python
+- Professional experience with PHP, Laravel, Go, Vue, JavaScript, TypeScript, MySQL, DynamoDB, Docker, Kubernetes, Python
 - BS in Computer Science and BS in Mechanical Engineering
 
 <!--
